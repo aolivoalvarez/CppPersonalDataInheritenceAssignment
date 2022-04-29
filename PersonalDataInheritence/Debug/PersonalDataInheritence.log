@@ -1,0 +1,4 @@
+﻿  PersonalDataInheritence.cpp
+E:\College\Spring 2022\Advanced C++\Advanced C++ Repositories\CppPersonalDataInheritenceAssignment\PersonalDataInheritence\PersonalDataInheritence.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\College\Spring 2022\Advanced C++\Advanced C++ Repositories\CppPersonalDataInheritenceAssignment\PersonalDataInheritence\CustomerData.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PersonalDataInheritence.vcxproj -> E:\College\Spring 2022\Advanced C++\Advanced C++ Repositories\CppPersonalDataInheritenceAssignment\PersonalDataInheritence\Debug\PersonalDataInheritence.exe
